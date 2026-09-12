@@ -1,4 +1,6 @@
 # 📦 RaportFeed - Synchronizator Dostępności i Cen Allegro
+<img width="1376" height="768" alt="Gemini_Generated_Image_1z41di1z41di1z41" src="https://github.com/user-attachments/assets/cb0318c2-a5e0-499a-95af-ef605f43cceb" />
+
 
 > **Profesjonalne narzędzie desktopowe do automatycznego monitorowania hurtowni, feedów XML oraz bezpiecznej synchronizacji ofert na Allegro.**
 
