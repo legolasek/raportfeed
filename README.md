@@ -9,7 +9,7 @@
 Najnowszą wersję programu pobierzesz w zakładce:
 👉 **[Wydania / Releases](../../releases/latest)**
 
-* Pobierz plik `RaportFeed_PawelSteczka.exe`.
+* Pobierz najnowszy plik `RaportFeed_PawelSteczka.exe`.
 * Program jest w wersji przenośnej (standalone) – nie wymaga instalacji ani zewnętrznych bibliotek.
 
 ---
@@ -39,8 +39,8 @@ Program został zaprojektowany ze szczególnym naciskiem na eliminację kosztown
 
 * 📦 **Price Drop Guard (Ochrona Zestawów):**
   Program automatycznie wykrywa oferty będące wielopakami (np. *„2 sztuki”*, *„zestaw”*, *„dwupak”*, *„x2”*). Jeśli feed dostawcy podaje cenę pojedynczego produktu, automat **nie nadpisze zestawu zaniżoną ceną**, dopóki tego wyraźnie nie potwierdzisz lub nie ustawisz odpowiedniego mnożnika (pod prawym przyciskiem myszy).
-* 📉 **Wykrywanie drastycznych spadków cen:**
-  Każda zmiana obniżająca cenę o więcej niż 35% lub o ponad 100 zł zostaje oznaczona ostrzeżeniem i wymaga świadomej decyzji użytkownika.
+* 📉 **Wykrywanie dużych obniżek cen:**
+  Każda zmiana obniżająca cenę o więcej niż **40%** zostaje oznaczona wyraźnym ostrzeżeniem i wymaga potwierdzenia użytkownika.
 * ↩️ **Safety Snapshot & Rollback (Błyskawiczne cofnięcie zmian):**
   Przed każdą wysyłką do Allegro program tworzy automatyczną migawkę stanu. W razie jakiejkolwiek pomyłki po stronie dostawcy możesz **jednym kliknięciem przywrócić poprzednie ceny i stany na Allegro**.
 * 🔄 **Automatyczne Aktualizacje:**
