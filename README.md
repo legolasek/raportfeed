@@ -2,6 +2,14 @@
 
 > **Profesjonalne narzędzie desktopowe do automatycznego monitorowania hurtowni, feedów XML oraz bezpiecznej synchronizacji ofert na Allegro.**
 
+<img width="1574" height="916" alt="image" src="https://github.com/user-attachments/assets/81c75887-6d3b-486c-9095-142afa9e16ca" />
+---
+<img width="1575" height="908" alt="image" src="https://github.com/user-attachments/assets/5b546e4a-649e-4809-8fc5-0bdeec6bc121" />
+---
+<img width="1608" height="936" alt="image" src="https://github.com/user-attachments/assets/ef5a15d9-c721-4f0d-ac31-2f8980079c53" />
+---
+<img width="1574" height="903" alt="image" src="https://github.com/user-attachments/assets/398b1e57-97f0-4a96-9237-2ed4bafceb02" />
+
 ---
 
 ## 📥 Pobieranie programu
