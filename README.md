@@ -4,16 +4,25 @@
 
 > **Profesjonalne narzędzie desktopowe do automatycznego monitorowania hurtowni, feedów XML oraz bezpiecznej synchronizacji ofert na Allegro.**
 
-<img width="1574" height="916" alt="image" src="https://github.com/user-attachments/assets/81c75887-6d3b-486c-9095-142afa9e16ca" />
----
-<img width="1575" height="908" alt="image" src="https://github.com/user-attachments/assets/5b546e4a-649e-4809-8fc5-0bdeec6bc121" />
----
-<img width="1608" height="936" alt="image" src="https://github.com/user-attachments/assets/ef5a15d9-c721-4f0d-ac31-2f8980079c53" />
----
-<img width="1574" height="903" alt="image" src="https://github.com/user-attachments/assets/398b1e57-97f0-4a96-9237-2ed4bafceb02" />
+<img width="1918" height="1007" alt="image" src="https://github.com/user-attachments/assets/25a74d03-4a5d-430d-8da2-ed5dfa26cbea" />
 
 ---
 
+<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/8cc99921-1fc8-469c-99a3-e77f34ce362e" />
+
+---
+
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/1c6e0e22-1c15-4993-be3b-4f3c06d7f69f" />
+
+---
+
+<img width="1918" height="1004" alt="image" src="https://github.com/user-attachments/assets/61f75205-f8be-40fe-a80c-992c9623f100" />
+
+---
+
+<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/97522f2e-77b3-436a-8003-540070333e64" />
+
+---
 ## 📥 Pobieranie programu
 
 Najnowszą wersję programu pobierzesz w zakładce:
