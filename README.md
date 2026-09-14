@@ -1,5 +1,6 @@
 # 📦 RaportFeed PRO - Synchronizator Dostępności i Cen Allegro
-<img width="1376" height="768" alt="Gemini_Generated_Image_1z41di1z41di1z41" src="https://github.com/user-attachments/assets/cb0318c2-a5e0-499a-95af-ef605f43cceb" />
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/d6912f69-0fb7-44b1-99a4-36da9059d8df" />
+
 
 > **Nowoczesne narzędzie desktopowe PRO do automatycznego monitorowania hurtowni, feedów XML oraz bezpiecznej synchronizacji ofert i cen na Allegro.**
 
