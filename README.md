@@ -29,7 +29,7 @@ Najnowszą wersję programu pobierzesz w zakładce:
 👉 **[Wydania / Releases](../../releases/latest)**
 
 * Pobierz najnowszy plik `RaportFeed_PawelSteczka.exe`.
-* Program jest w wersji przenośnej (standalone) – nie wymaga instalacji ani zewnętrznych bibliotek.
+* Program jest w wersji przenośnej (portable) – nie wymaga instalacji ani zewnętrznych bibliotek.
 
 ---
 
